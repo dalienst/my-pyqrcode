@@ -1,3 +1,4 @@
+# QR code to save my Github Profile
 import qrcode
 input_data = "https://github.com/dalienst"
 
